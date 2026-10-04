@@ -5,8 +5,6 @@ sleep screen, with an image of your own drawn on top of it -- a frame, a
 badge, a "this device belongs to" note, whatever you like. It is the stock
 "Show book cover" and "Show custom image" wallpapers, together.
 
-![The cover of the current book, with a frame, a corner badge and a translucent band drawn over it](screenshots/sleep-screen.png)
-
 ## Using it
 
 **Settings → Screen → Sleep screen → Wallpaper → Show book cover with custom
